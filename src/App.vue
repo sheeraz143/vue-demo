@@ -1,16 +1,16 @@
 <template>
-  <HelloWorld />
+  <!-- <HelloWorld /> -->
   <SampleFile />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+// import HelloWorld from "./components/HelloWorld.vue";
 import SampleFile from "./components/SampleFile.vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld,
+    // HelloWorld,
     SampleFile
   },
 };
